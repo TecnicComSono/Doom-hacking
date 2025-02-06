@@ -5,7 +5,7 @@
 # Doom Injector
 
 ```js
-javascript:(function(){var s=document.createElement('script');s.src="https://cdn.jsdelivr.net/gh/TecnicComSono/Doom-hacking@master/pinto.js";document.body.appendChild(s);})();
+javascript:(function(){var s=document.createElement('script');s.src="https://cdn.jsdelivr.net/gh/TecnicComSono/Doom-hacking@master/source.js";document.body.appendChild(s);})();
 ```
 
 Doom Injector was created for you to play doom on websites, in pure meme terms, this bookmarklet may not work on famous websites, such as youtube, chatgpt and government websites, but good fun!
